@@ -45,7 +45,3 @@ Luggage-Safety-Detection/
 - Scikit-learn / Joblib
 - TensorFlow / Keras
 - Matplotlib
-
-## Notes
-
-The project demonstrates a combined approach to image classification and segmentation for luggage safety analysis. Predictions depend on the trained models and the input images provided.
